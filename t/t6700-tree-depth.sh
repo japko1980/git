@@ -1,6 +1,7 @@
 #!/bin/sh
 
 test_description='handling of deep trees in various commands'
+
 . ./test-lib.sh
 
 # We'll test against two depths here: a small one that will let us check the
